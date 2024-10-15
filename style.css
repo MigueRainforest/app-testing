@@ -4,6 +4,12 @@
     border-radius: .75rem;
 }
 
+/* ---------------- CAROUSEL ---------------- */
+.carousel-container {
+  width: 60%; /* Adjust this to your liking */
+  margin: 0 auto; /* Center it horizontally */
+}
+
  /* ------------------ TABLE--------------- */
 
 .table-container {
